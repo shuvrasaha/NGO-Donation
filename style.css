@@ -117,7 +117,8 @@ hr{
     height: 400px;
     text-align: left;
     padding: 20px;
-    border-radius: 5px;       
+    border-radius: 5px;   
+    margin-bottom: 30px;    
 }
 
 .plan-map img{
@@ -138,16 +139,66 @@ hr{
 }
 
 .we-do{
-    font-size: 30px;
-    margin-bottom: 25px;
+    font-size: 32px;
+    margin: 25px 0;
     text-align: center;
 }
 .works{
     display: flex;
+    height: 250px;
+    width: 100%;
+    margin-top: 50px;
+    font-size: px;
+    
+    
 }
 
 .work1{
+    background-image: url(./images/donation12.png);
+    font-weight: 900;
+    background-size:cover;
+    color: yellow;
+    width: 19%;
+    padding-top: 150px;
+
+}
+
+.work2{
     background-image: url(./images/donation5.jpg);
+    font-weight: 900;
+    background-size: cover;
+    color: yellow;
+    width: 19%;
+    padding-top: 150px;
+    
+}
+
+.work3{
+    background-image: url(./images/donation10.jpg);
+    font-weight: 900;
+    background-size: cover;
+    color: yellow;
+    width: 19%;
+    padding-top: 150px;
+
+}
+
+.work4{
+    background-image: url(./images/donation11.jpg);
+    font-weight: 900;
+    background-size: cover;
+    color: yellow;
+    width: 19%;
+    padding-top: 150px;
+}
+
+.work5{
+    background-image: url(./images/donation2.jpg);
+    font-weight: 900;
+    background-size: cover;
+    color: yellow;
+    width: 19%;
+    padding-top: 150px;
 
 }
 
