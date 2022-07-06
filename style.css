@@ -114,10 +114,18 @@ hr{
 
 .plan-map{
     width: 300px;
-    height: 220px;
+    height: 400px;
     text-align: left;
     padding: 20px;
-    border-radius: 5px;
+    border-radius: 5px;       
+}
+
+.plan-map img{
+    padding-top: 10px;;
+    padding-bottom: 10px;
+}
+.plan-map h2{
+    padding-bottom: 10px;
 }
 #blue{
     background-color: #EDF5F6;
@@ -127,6 +135,20 @@ hr{
 }
 #yellow{
     background-color: #FFFED6;
+}
+
+.we-do{
+    font-size: 30px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+.works{
+    display: flex;
+}
+
+.work1{
+    background-image: url(./images/donation5.jpg);
+
 }
 
 .update{
