@@ -47,7 +47,7 @@ button:hover{
 }
 .donation-area h1{
     padding: 20px;
-    font-size: 50px;
+    font-size: 45px;
 }
 .donation-area p{
     font-family: 'Poppins', sans-serif;
@@ -92,4 +92,16 @@ button:hover{
 hr{
     width: 60%;
     margin-bottom: 25px;;
+}
+.donation-plan{
+    text-align: center;
+}
+.donation-plan h1{
+    font-size: 45px;
+    margin-bottom: 25px;;
+}
+.donation-plan p{
+    font-family: 'Poppins', sans-serif;
+    color: gray;
+    font-weight: 600;
 }
