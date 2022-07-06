@@ -105,3 +105,26 @@ hr{
     color: gray;
     font-weight: 600;
 }
+
+.three-plan{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px; 
+    
+}
+
+.plan-map{
+    width: 300px;
+    height: 250px;
+    text-align: left;
+    padding: 20px;
+}
+#blue{
+    background-color: #EDF5F6;
+}
+#pink{
+    background-color: #FFEEEE;
+}
+#yellow{
+    background-color: #FFFED6;
+}
