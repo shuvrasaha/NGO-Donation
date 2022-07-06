@@ -98,7 +98,7 @@ hr{
 }
 .donation-plan h1{
     font-size: 45px;
-    margin-bottom: 25px;;
+    margin-bottom: 25px;
 }
 .donation-plan p{
     font-family: 'Poppins', sans-serif;
@@ -128,4 +128,18 @@ hr{
 }
 #yellow{
     background-color: #FFFED6;
+}
+
+.update{
+    text-align: center;
+    margin-top: 50px;
+}
+.update h1{
+    font-size: 45px;
+    margin-bottom: 25px;
+}
+.update p{
+    font-family: 'Poppins', sans-serif;
+    color: gray;
+    font-weight: 600;
 }
